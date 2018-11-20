@@ -4,3 +4,4 @@ https://www.codecademy.com/
 https://www.w3schools.com/python/
 https://learnpythonthehardway.org/book/
 https://www.fullstackpython.com/best-python-resources.html
+https://www.learnpython.org/
