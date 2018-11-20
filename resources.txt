@@ -1,0 +1,6 @@
+Here are some links to learning resources in order to learn Python
+------------------------------------------------------------------
+https://www.codecademy.com/
+https://www.w3schools.com/python/
+https://learnpythonthehardway.org/book/
+https://www.fullstackpython.com/best-python-resources.html
